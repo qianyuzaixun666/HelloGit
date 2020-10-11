@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e02b576f-a87d-45d9-b499-dea71639e662" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qianyu/zaixun/HelloGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qianyu/zaixun/HelloGit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1iiFFvgLJHENb3PIGo9GEqbzsSv" />
@@ -58,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602382405814</updated>
-      <workItem from="1602382411697" duration="2365000" />
+      <workItem from="1602382411697" duration="4589000" />
     </task>
     <task id="LOCAL-00001" summary="提交文件">
       <created>1602384513131</created>
@@ -67,21 +73,84 @@
       <option name="project" value="LOCAL" />
       <updated>1602384513131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新1">
+      <created>1602384984126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602384984126</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新2">
+      <created>1602385161323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602385161323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新2">
+      <created>1602385462926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602385462926</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新2">
+      <created>1602386153205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602386153205</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新3">
+      <created>1602386173375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602386173375</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交文件" />
+    <MESSAGE value="更新1" />
+    <MESSAGE value="更新2" />
+    <MESSAGE value="更新3" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1602384512237">
+    <state x="372" y="5" key="CommitChangelistDialog2" timestamp="1602386172475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602384512237" />
+    <state x="372" y="5" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602386172475" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1602385836631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602385836631" />
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1602382703421">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -94,5 +163,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602383548061" />
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602386019635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602386019635" />
+    <state x="578" y="307" key="git4idea.ui.GitResetDialog" timestamp="1602401716001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="307" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1602401716001" />
   </component>
 </project>
